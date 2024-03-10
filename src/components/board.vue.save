@@ -1,0 +1,15 @@
+q
+:q
+<script setup>
+
+</script>
+
+<template>
+    <div id="board">
+        Moini from board
+    </div>
+</template>
+
+<style scoped>
+
+</style>
